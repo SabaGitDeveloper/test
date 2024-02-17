@@ -1,6 +1,6 @@
 <html>
 <head>My First Gitfile</head>
-<title>Learn Git Branching</title>
+<title>GitHub Learn</title>
 <body>
 </body>
 </html>
